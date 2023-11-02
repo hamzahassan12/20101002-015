@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    line-height: 1.6;
+}
+
+header {
+    
+    color: #dc3728;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+}
+img {
+    max-width: 150px;
+    border-radius: 12px;
+}
+section{
+    border: 1px solid #333;
+    margin: 10px;
+}
+
+#education table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+#education th, #education td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+#education th {
+    background-color: #333;
+    color: #fff;
+    padding: 2;
+    margin: 0;
+}
+
+#education tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+h2
+{
+    padding-left: 10px;
+}
+p{
+    margin-left: 10px;
+}
+
+
+ul, ol {
+    padding: 2;
+    margin: 0;
+    list-style: none;
+}
+
+ul li, ol li {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+
+
